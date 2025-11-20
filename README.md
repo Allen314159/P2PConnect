@@ -130,11 +130,3 @@ Developed as part of the **Computer Networks** course at **Ho Chi Minh City Univ
 
 ---
 
-⭐ **If you like this project, consider giving it a star!**
-
-```
-
----
-
-Would you like me to also include a **diagram section** (like deployment or use case in Markdown format with ASCII or Mermaid diagrams) to make your README more visual and GitHub-friendly?
-```

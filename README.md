@@ -115,11 +115,11 @@ Then open your browser at:
 
 ## 👥 Team
 
-| Name                 | Student ID | Role                       |
-| -------------------- | ---------- | -------------------------- |
-| **Lâm Mỹ Trang**     | 2213549    | Backend, Report            |
-| **Nguyễn Nhật Khoa** | 2211629    | Backend, Report            |
-| **Nguyễn Hữu Khánh** | 2211521    | UI Design, Testing, Report |
+| Name                 | Role                       |
+| -------------------- |--------------------------  |
+| **Lâm Mỹ Trang**     | Backend, Report            |
+| **Nguyễn Nhật Khoa** | Backend, Report            |
+| **Nguyễn Hữu Khánh** | UI Design, Testing, Report |
 
 ---
 
